@@ -1,0 +1,152 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Roboto', sans-serif;
+}
+form {
+    display: block;
+    font-family: 'Roboto', sans-serif;
+    position:absolute;
+    display: block;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    margin: 100px 0 0 1000px;
+    position: absolute;
+}
+p {
+    font-family: 'Roboto', sans-serif;
+    font-size: 13px;
+    color: red;
+    line-height: 20px;
+}
+label {
+    font-family: 'Roboto', sans-serif;
+    font-size: 15px;
+    display: block;
+    line-height: 40px;
+}
+input {
+    display: block;
+    width: 250px;
+    height: 40px;
+    background: gainsboro;
+    font-size: 16px;
+}
+button {
+    height: 50px;
+    width: 250px;
+    background: black;
+    color: White;
+    font-size: 20px;
+}
+.exp input {
+    display:inline;
+    flex-direction: row;
+    width: 60px;
+}
+
+
+.side {
+    position: fixed;
+    width: 500px;
+}
+.front {
+    position: fixed;
+    width: 400px;
+    top: 100px;
+    left: 130px;
+    padding-left: 200px;
+}
+.back {
+    position: fixed;
+    width: 450px;
+    top: 350px;
+    left: 400px;
+}
+
+.cardNO {
+    position: fixed;
+    margin-top: 200px;
+    font-size: 25px;
+    left: 380px;
+    letter-spacing: 5px;
+    color: white;
+}
+
+.year {
+    position: fixed;
+    margin-top: 270px;
+    font-size: 25px;
+    left: 632px;
+    color: white;
+    letter-spacing: 3px;
+}
+.name {
+    position: fixed;
+    margin-top: 270px;
+    font-size: 30px;
+    left: 360px;
+    color: white;
+}
+
+
+.cvcno {
+    position: fixed;
+    margin-top: 440px;
+    font-size: 25px;
+    left: 730px;
+    color: white;
+}
+
+.round1 {
+    position: fixed;
+    margin-top: 120px;
+    left: 360px;
+}
+.round2 {
+    position: fixed;
+    margin-top: 130px;
+    left: 430px;
+}
+
+form {
+    display: block;
+    font-family: 'Roboto', sans-serif;
+    position:absolute;
+    display: block;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    margin: 100px 0 0 1000px;
+    position: absolute;
+}
+p {
+    font-family: 'Roboto', sans-serif;
+    font-size: 13px;
+    color: red;
+    line-height: 20px;
+}
+label {
+    font-family: 'Roboto', sans-serif;
+    font-size: 15px;
+    display: block;
+    line-height: 40px;
+}
+input {
+    display: block;
+    width: 250px;
+    height: 40px;
+    background: gainsboro;
+}
+button {
+    height: 60px;
+    width: 260px;
+    background: black;
+    color: White;
+}
+.exp input {
+    display:inline;
+    flex-direction: row;
+    width: 60px;
+}
